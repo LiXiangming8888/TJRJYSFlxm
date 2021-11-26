@@ -1,0 +1,16 @@
+Package: LeePackage
+Type: Package
+Title: My R package in the course of WangCheng
+Version: 0.1.0
+Author: Li Xiangming
+Maintainer: Li Xiangming <lixiangming@sjtu.edu.cn>
+Description: My R package in the course of WangCheng.
+    This course is in 2021-Fall, one of the compulsory course of Applied Statistics Master.
+    In this course, we learn how to use R to write some function to realize some particular purposes, for example, how to sort a sequence of numbers (homework 1).
+    Besides, we also use R to do some statistics analysis and statistics learning problem, such as logistic regression, LDA, KNN and SVM (Midterm task).
+    In week 10, we learn how to build our R package so that we can put the functions we write, data we use together.
+    As the course going on in the future weeks, I may put more thing in this package and the version will be changed, too.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
